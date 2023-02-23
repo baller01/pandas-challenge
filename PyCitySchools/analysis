@@ -1,19 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2707
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red190\green199\blue208;\red189\green198\blue208;
-\red12\green14\blue18;\red109\green109\blue109;}
-{\*\expandedcolortbl;;\cssrgb\c0\c1\c1;\cssrgb\c78933\c82075\c85114;\cssrgb\c78824\c81961\c85098;
-\cssrgb\c5098\c6667\c9020;\cssrgb\c50196\c50196\c50196;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trcbpat5 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
-\clvertalt \clshdrawnil \clwWidth16422\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
-\clvertalt \clshdrawnil \clwWidth16422\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
-\pard\intbl\itap1\cell
-\pard\intbl\itap1\pardeftab720\partightenfactor0
-
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec3 1) Charter Schools dominated the top 5 schools in overall passing rate and District dominated the bottom 5.\
-2) Larger school size and larger school spending doesn't represent efficiency. \
-   The lower spending ranges (per student: $585-$615, <$585) and size (1000-2000, <1000) yield best results.\cell \lastrow\row}
+- The database PyCitySchool compares total number of 15 schools overall math and reading performance with the aim to provide a comparison on district 
+and charters and the spending range per student.
+- Carbera high school showed the best results and is the best performing school followed by Thomas high school and Pena high School got the third position.
+- Smaller schhols reported the higher scores and high productivity as compared to medium and larger one. Another trend that can be noticed is that
+   students who spent less than $585 came up with best results and the trend deteriorated with the increasing spending range.
+- Charter Schools has demonstrated the highest overall passing rate surpassing districts ones with the total percentage of 95% approx. 
